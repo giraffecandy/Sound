@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
             drumSound.isPlaying
         }
 
-        if (drumSound.isPlaying && drumImage.setOnClickListener{})
+        if (drumSound.isPlaying && drumImage.setOnClickListener)
 
     }
 }
